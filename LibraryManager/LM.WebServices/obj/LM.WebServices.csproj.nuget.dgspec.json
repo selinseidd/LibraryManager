@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.WebServices\\LM.WebServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.ApplicationServices\\LM.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.ApplicationServices\\LM.ApplicationServices.csproj",
+        "projectName": "LM.ApplicationServices",
+        "projectPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.ApplicationServices\\LM.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\selin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\selin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Repositories\\LM.Repositories.csproj": {
+                "projectPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Repositories\\LM.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Data\\LM.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Data\\LM.Data.csproj",
+        "projectName": "LM.Data",
+        "projectPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Data\\LM.Data.csproj",
+        "packagesPath": "C:\\Users\\selin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\selin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Repositories\\LM.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Repositories\\LM.Repositories.csproj",
+        "projectName": "LM.Repositories",
+        "projectPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Repositories\\LM.Repositories.csproj",
+        "packagesPath": "C:\\Users\\selin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\selin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Data\\LM.Data.csproj": {
+                "projectPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.Data\\LM.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.WebServices\\LM.WebServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.WebServices\\LM.WebServices.csproj",
+        "projectName": "LM.WebServices",
+        "projectPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.WebServices\\LM.WebServices.csproj",
+        "packagesPath": "C:\\Users\\selin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.WebServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\selin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.ApplicationServices\\LM.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\selin\\Desktop\\std\\BIE\\Web Programming\\CourseWork2\\LibraryManager\\LM.ApplicationServices\\LM.ApplicationServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

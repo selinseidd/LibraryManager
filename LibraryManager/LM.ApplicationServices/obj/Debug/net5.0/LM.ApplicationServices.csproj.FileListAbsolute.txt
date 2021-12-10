@@ -1,0 +1,17 @@
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\bin\Debug\net5.0\LM.ApplicationServices.deps.json
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\bin\Debug\net5.0\LM.ApplicationServices.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\bin\Debug\net5.0\ref\LM.ApplicationServices.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\bin\Debug\net5.0\LM.ApplicationServices.pdb
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\bin\Debug\net5.0\LM.Data.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\bin\Debug\net5.0\LM.Repositories.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\bin\Debug\net5.0\LM.Repositories.pdb
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\bin\Debug\net5.0\LM.Data.pdb
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\LM.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\LM.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\LM.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\LM.ApplicationServices.AssemblyInfo.cs
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\LM.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\LM.ApplicationServices.csproj.CopyComplete
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\LM.ApplicationServices.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\ref\LM.ApplicationServices.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.ApplicationServices\obj\Debug\net5.0\LM.ApplicationServices.pdb

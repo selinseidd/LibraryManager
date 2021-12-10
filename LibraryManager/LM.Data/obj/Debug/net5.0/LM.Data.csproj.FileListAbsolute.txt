@@ -1,0 +1,15 @@
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\bin\Debug\net5.0\LM.Data.deps.json
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\bin\Debug\net5.0\LM.Data.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\bin\Debug\net5.0\ref\LM.Data.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\bin\Debug\net5.0\LM.Data.pdb
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\LM.Data.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\LM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\LM.Data.AssemblyInfoInputs.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\LM.Data.AssemblyInfo.cs
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\LM.Data.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\LM.Data.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\ref\LM.Data.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\LM.Data.pdb
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\bin\Debug\net5.0\LM.Data.runtimeconfig.json
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\bin\Debug\net5.0\LM.Data.runtimeconfig.dev.json
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Data\obj\Debug\net5.0\LM.Data.genruntimeconfig.cache

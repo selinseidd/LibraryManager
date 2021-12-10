@@ -1,0 +1,15 @@
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\bin\Debug\net5.0\LM.Repositories.deps.json
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\bin\Debug\net5.0\LM.Repositories.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\bin\Debug\net5.0\ref\LM.Repositories.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\bin\Debug\net5.0\LM.Repositories.pdb
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\bin\Debug\net5.0\LM.Data.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\bin\Debug\net5.0\LM.Data.pdb
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\LM.Repositories.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\LM.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\LM.Repositories.AssemblyInfoInputs.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\LM.Repositories.AssemblyInfo.cs
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\LM.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\LM.Repositories.csproj.CopyComplete
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\LM.Repositories.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\ref\LM.Repositories.dll
+C:\Users\selin\Desktop\std\BIE\Web Programming\LibraryManager\LM.Repositories\obj\Debug\net5.0\LM.Repositories.pdb
