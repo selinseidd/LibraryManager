@@ -21,21 +21,21 @@ namespace LM.WebServices.Controllers
             _usersService = usersService;
         }
 
-        // [GET] https://localhost:44309/api/users
+        // [GET] https://localhost:44/api/users
         [HttpGet]
         public IActionResult Get()
         {
             return Ok(_usersService.GetAll());
         }
 
-        // [GET] https://localhost:44309/api/users/1
+        // [GET] https://localhost:44/api/users/1
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
             return Ok(_usersService.GetById(new GetUserRequest(id)));
         }
 
-        // [POST] https://localhost:44309/api/library
+        // [POST] https://localhost:44/api/library
         /// <summary>
         /// Body param example: 
         /// {
@@ -52,7 +52,7 @@ namespace LM.WebServices.Controllers
             return Ok(_usersService.Insert(new InsertUserRequest(userVM)));
         }
 
-        // [PUT] https://localhost:44309/api/users/1
+        // [PUT] https://localhost:44/api/users/1
         /// <summary>
         /// Body param example: 
         /// {
@@ -67,7 +67,7 @@ namespace LM.WebServices.Controllers
             return Ok(_usersService.Update(new UpdateUserRequest(id, userVM)));
         }
 
-        // [DELETE] https://localhost:44309/api/users/1
+        // [DELETE] https://localhost:44/api/users/1
         [HttpDelete("{id}")]
         public IActionResult Delete([FromRoute] int id)
         {
