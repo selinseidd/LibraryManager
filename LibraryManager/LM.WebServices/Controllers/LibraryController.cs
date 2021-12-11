@@ -21,21 +21,21 @@ namespace LM.WebServices.Controllers
             _libraryService = libraryService;
         }
 
-        // [GET] https://localhost:44309/api/library
+        // [GET] https://localhost:44/api/library
         [HttpGet]
         public IActionResult Get()
         {
             return Ok(_libraryService.GetAll());
         }
 
-        // [GET] https://localhost:44309/api/library/1
+        // [GET] https://localhost:44/api/library/1
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
             return Ok(_libraryService.GetById(new GetBookRequest(id)));
         }
 
-        // [POST] https://localhost:44309/api/library
+        // [POST] https://localhost:44/api/library
         /// <summary>
         /// Body param example: 
         /// {
@@ -52,7 +52,7 @@ namespace LM.WebServices.Controllers
             return Ok(_libraryService.Insert(new InsertBookRequest(bookVM)));
         }
 
-        // [PUT] https://localhost:44309/api/library/1
+        // [PUT] https://localhost:44/api/library/1
         /// <summary>
         /// Body param example: 
         /// {
@@ -67,7 +67,7 @@ namespace LM.WebServices.Controllers
             return Ok(_libraryService.Update(new UpdateBookRequest(id, bookVM)));
         }
 
-        // [DELETE] https://localhost:44309/api/library/1
+        // [DELETE] https://localhost:44/api/library/1
         [HttpDelete("{id}")]
         public IActionResult Delete([FromRoute] int id)
         {
